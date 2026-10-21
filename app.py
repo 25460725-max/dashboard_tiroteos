@@ -32,7 +32,6 @@ def cargar_y_limpiar_datos():
 df = cargar_y_limpiar_datos()
 
 # Título del Dashboard
-st.title("📊 Dashboard: Análisis de Tiroteos Escolares en EE. UU.")
 st.markdown("Explora los datos históricos de tiroteos escolares.")
 
 # 3. Implementar capa de frontend: Widgets de filtrado
